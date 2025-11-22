@@ -1,2 +1,2 @@
 # python-errors-practice
-This repository contains beginner Python experiments focused on common errors, operators, and data types. The project explores what happens when syntax mistakes are made and how Python handles expressions. It helps build debugging skills and understanding of core Python behavior through hands-on practice.
+This repository contains beginner Python exercise that explore common mistakes and how Python responds. It is an experiment with syntax errors, quotation marks, operators, number formats, and data types. The goal is to see the results, understand the error messages, and learn how Python evaluates code. These exercises help build debugging skills, understand core language behavior, and practice writing and testing Python code step by step.
